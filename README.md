@@ -12,8 +12,6 @@ A base contém informações como:
 * Ano da cerimônia
 * Se venceu ou não
 
-Ela pode ser utilizada para realizar consultas, atualizações e inserções de registros.
-
 ---
 
 ## Atividades e Consultas
